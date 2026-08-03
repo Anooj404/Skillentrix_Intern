@@ -1,0 +1,5 @@
+PaymentID,OrderID,PaymentMethod,Status
+9001,5001,Card,Paid
+9002,5002,UPI,Paid
+9003,5003,Cash,Pending
+9004,5004,Card,Paid

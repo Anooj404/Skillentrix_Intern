@@ -1,0 +1,8 @@
+pandas
+python-dotenv
+azure-storage-blob
+matplotlib
+weasyprint
+pytest
+pyodbc
+azure-identity

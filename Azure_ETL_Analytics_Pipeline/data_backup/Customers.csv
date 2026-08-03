@@ -1,0 +1,6 @@
+CustomerID,CustomerName,Email,City,SignupDate
+101,Ajay,ajay@email.com,Chennai,2025-01-15
+102,Rahul,rahul@email.com,Bengaluru,2025-02-10
+103,Priya,priya@email.com,Kochi,2025-03-05
+104,Anita,,Hyderabad,2025-03-20
+102,Rahul,rahul@email.com,Bengaluru,2025-02-10

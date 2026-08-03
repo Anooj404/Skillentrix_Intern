@@ -1,0 +1,27 @@
+# Environment variables / secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Pytest cache
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Generated reports
+reports/*.png
+reports/*.html
+reports/*.pdf
+
+# Logs
+*.log
+
+# Local database
+*.db
